@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-:mortar_board: Graduated in Computer Engineer with postgraduate studies in Artificial Intelligence and Machine Learning (MBA)
+:mortar_board: Graduated in Computer Engineering with postgraduate studies in Artificial Intelligence and Machine Learning (MBA)
 
 :computer: Full-stack web developer with 5 years of experience using .NET Framework and HTML/CSS (LESS)/JavaScript, including frameworks such as Kendo UI, Durandal JS, Knockout JS and jQuery. Also experienced on desktop application development with WPF.
 
