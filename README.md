@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, you 👋
 
 <!--
 **Vicnovais/Vicnovais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,4 +20,8 @@ Here are some ideas to get you started:
 
 :book: Maintainer of open source projets available on GitHub and NPM, using technologies such as Vue, MongoDB, Node, Express, Aurelia, TypeScript, Mocha, Chai and Webpack.
 
-:mage: test
+📫 LinkedIn: https://www.linkedin.com/in/novaisvictor/
+
+⚡ Fun facts:
+:mage: Harry Potter Addicted
+:elf_man: Game of Thrones Fan
