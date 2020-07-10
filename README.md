@@ -25,4 +25,5 @@ Here are some ideas to get you started:
 ⚡ Fun facts:
 
 :mage: Harry Potter Addicted
+
 :elf_man: Game of Thrones Fan
