@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 📫 LinkedIn: https://www.linkedin.com/in/novaisvictor/
 
-⚡ Fun facts:
+⚡ ## Fun facts:
 
 :mage: Harry Potter Addicted
 
