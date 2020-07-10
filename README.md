@@ -27,3 +27,5 @@ Here are some ideas to get you started:
 :mage: Harry Potter Addicted
 
 :elf_man: Game of Thrones Fan
+
+:dog: Dog person
