@@ -23,5 +23,6 @@ Here are some ideas to get you started:
 📫 LinkedIn: https://www.linkedin.com/in/novaisvictor/
 
 ⚡ Fun facts:
+
 :mage: Harry Potter Addicted
 :elf_man: Game of Thrones Fan
